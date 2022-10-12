@@ -67,6 +67,17 @@ table:hover{
     transition-duration: 0.5s;
 }
 
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: arial;
+}
+
+h1:hover{
+    color: aqua;
+    letter-spacing: 3px;
+}
+
 body{
     color: white;
     background-size: cover;
