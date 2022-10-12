@@ -55,6 +55,24 @@ a:hover{
     text-align: center;
 }
 
+.info{
+    color: gray;
+    font-size: 30px;
+    font-family: arial;
+}
+
+.info a{
+    color: white;
+}
+
+.info a:hover{
+    color: aqua;
+}
+
+img{
+    height: 300px;
+    opacity: 50%;
+}
 
 body{
     background-size: cover;
